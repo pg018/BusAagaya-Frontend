@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home-page-trending-1-offer {
+  background-image: linear-gradient(
+    71.04deg,
+    rgb(12, 57, 139) -6.92%,
+    rgb(62, 118, 216) 109.43%
+  );
+}
+
+.home-page-trending-2-offer {
+  background-image: linear-gradient(
+    71.04deg,
+    rgb(39, 57, 101) -6.92%,
+    rgb(80, 210, 149) 109.43%
+  );
+}
+
+.home-page-trending-3-offer {
+  background-image: linear-gradient(
+    71.04deg,
+    rgb(72, 0, 4) -6.92%,
+    rgb(216, 78, 85) 109.43%
+  );
+}
+
+.home-page-trending-4-offer {
+  background-image: linear-gradient(
+    71.04deg,
+    rgb(134, 0, 62) -6.92%,
+    rgb(210, 81, 141) 109.43%
+  );
+}
